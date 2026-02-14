@@ -18,5 +18,5 @@ notebooks/ – analysis and modelling
 outputs/ – results and figures  
 
 ## Authors
-Mandisa Skweyiya - BSc Mathematics and Statistical Sciences
-Dyllan Peter Zass – BCom General (Statistics & Economics)
+- Mandisa Skweyiya - BSc Mathematics and Statistical Sciences
+- Dyllan Peter Zass – BCom General (Statistics & Economics)
