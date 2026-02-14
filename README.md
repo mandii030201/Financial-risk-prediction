@@ -19,4 +19,4 @@ outputs/ – results and figures
 
 ## Authors
 - Mandisa Skweyiya - BSc Mathematics and Statistical Sciences
-- Dyllan Peter Zass – BCom General (Statistics & Economics)
+- Dyllan Peter Zass - BCom General (Statistics & Economics)
